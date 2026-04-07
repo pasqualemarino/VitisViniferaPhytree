@@ -1,0 +1,289 @@
+(
+agadai:0.078601,
+(
+(
+(
+(
+(
+(
+mavrodaphni:0.066103,
+shafei:0.1019)
+Branch 1:0.02896,
+(
+(
+kadarka:0.071954,
+(
+tagobi:0.076605,
+V294:0.067789)
+Branch 2:0.013284)
+Branch 3:0.0073155,
+terbash:0.090373)
+Branch 4:0.0027273)
+Branch 5:0.0072357,
+(
+(
+(
+(
+(
+glera:0.10881,
+(
+(
+(
+cabernet_franc:0.10875,
+(
+gouais_blanc:0.082253,
+(
+malvasia_istriana:0.050554,
+ribolla_gialla:0.054648)
+Branch 6:0.041844)
+Branch 7:0.010282)
+Branch 8:0.0065189,
+(
+rhein_riesling:0.098867,
+(
+uva_di_troia:0.10076,
+V267:0.11667)
+Branch 9:0.026615)
+Branch 10:0.0091484)
+Branch 11:0.00236,
+chaouch_blanc:0.089959)
+Branch 12:0.0090809)
+Branch 13:0.0083725,
+(
+(
+(
+(
+(
+(
+(
+(
+falanghina:0.10358,
+(
+(
+lambrusco_sorbara:0.10429,
+raboso_piave:0.1135)
+Branch 14:0.012282,
+(
+riesling_italico:0.082872,
+terrano:0.0965)
+Branch 15:0.018447)
+Branch 16:0.011554)
+Branch 17:0.011029,
+(
+(
+ansonica:0.11128,
+schiava_grossa:0.096169)
+Branch 18:0.02157,
+verduzzo:0.13043)
+Branch 19:0.0058146)
+Branch 20:0.0090482,
+(
+(
+greco_di_tufo:0.094884,
+nebbiolo:0.10108)
+Branch 21:0.021872,
+(
+fiano:0.08783,
+(
+aglianico:0.089603,
+berzamino:0.10767)
+Branch 22:0.0076872)
+Branch 23:0.012022)
+Branch 24:0.008648)
+Branch 25:0.011545,
+pecorino:0.10409)
+Branch 26:0.0067848,
+(
+mauzac:0.10675,
+(
+(
+pinot_noir_vcr20:0.082559,
+(
+traminer:0.098513,
+(
+cabernet_sauvignon:0.060298,
+merlot:0.03538)
+Branch 27:0.049693)
+Branch 28:0.0071562)
+Branch 29:0.0076937,
+sauvignon:0.102)
+Branch 30:0.017048)
+Branch 31:0.012562)
+Branch 32:0.004409,
+(
+(
+(
+fumat:0.1124,
+V389:0.13849)
+Branch 33:0.010491,
+(
+sagrantino:0.10841,
+negroamaro:0.11712)
+Branch 34:0.014058)
+Branch 35:0.005559,
+V411:0.13689)
+Branch 36:0.0018562)
+Branch 37:0.005971,
+vermentino:0.16758)
+Branch 38:0.009777,
+(
+(
+(
+(
+garganega:0.07936,
+trebbiano_toscano:0.031006)
+Branch 39:0.030146,
+cesanese_daffile:0.096947)
+Branch 40:0.01472,
+sangiovese:0.069526)
+Branch 41:0.010059,
+(
+limnio:0.093069,
+vernaccia:0.093168)
+Branch 42:0.0054017)
+Branch 43:0.01055)
+Branch 44:0.0024864)
+Branch 45:0.0020578,
+(
+chasselas:0.072438,
+(
+(
+lambrusco_grasparossa:0.094881,
+zametovka:0.12796)
+Branch 46:0.010458,
+(
+moscato_bianco:0.075087,
+(
+refosco_dal_peduncolo_rosso:0.071627,
+verdicchio:0.096295)
+Branch 47:0.013155)
+Branch 48:0.022137)
+Branch 49:0.0082302)
+Branch 50:0.0087554)
+Branch 51:0.0074401,
+(
+(
+(
+(
+(
+barbera:0.033894,
+grignolino:0.053252)
+Branch 52:0.040315,
+picolit:0.059147)
+Branch 53:0.021514,
+tschvediansis_tetra:0.10032)
+Branch 54:0.017325,
+catarratto_bianco_comune:0.09496)
+Branch 55:0.01088,
+(
+(
+(
+(
+alexandrouli:0.098273,
+sciavtsitska:0.085512)
+Branch 56:0.018789,
+(
+(
+bayan_shirei:0.08156,
+(
+rumi_ahmar:0.10508,
+(
+daphnia:0.089424,
+V292:0.085101)
+Branch 57:0.0073901)
+Branch 58:0.014396)
+Branch 59:0.01449,
+(
+(
+(
+gorula:0.091928,
+(
+mtsvane_kachuri:0.071501,
+rkatsiteli:0.068476)
+Branch 60:0.0063874)
+Branch 61:0.020385,
+ogialesci:0.11878)
+Branch 62:0.016152,
+V278:0.13703)
+Branch 63:0.0053396)
+Branch 64:0.0028669)
+Branch 65:0.0033663,
+sirgula:0.091738)
+Branch 66:0.0098705,
+asyl_kara:0.097129)
+Branch 67:0.0067291)
+Branch 68:0.0041684)
+Branch 69:0.0037086,
+(
+(
+(
+garnacha_tinta:0.099193,
+(
+(
+ararati:0.058651,
+narma:0.068285)
+Branch 70:0.013791,
+gyulyabi_dagestanskii:0.073908)
+Branch 71:0.03164)
+Branch 72:0.0030937,
+(
+(
+assyrtico:0.10346,
+sahibi_safid:0.12842)
+Branch 73:0.011145,
+(
+(
+malvasia_bianca_lunga:0.094136,
+(
+(
+plechistik:0.085142,
+V385:0.084456)
+Branch 74:0.021262,
+tavkveri:0.1019)
+Branch 75:0.010943)
+Branch 76:0.0098393,
+(
+primitivo:0.11069,
+pukhlyakovskii:0.082404)
+Branch 77:0.024433)
+Branch 78:0.0076282)
+Branch 79:0.0061727)
+Branch 80:0.0021338,
+(
+(
+carignano:0.10478,
+(
+airen:0.092281,
+harslevelu:0.093984)
+Branch 81:0.010159)
+Branch 82:0.010584,
+(
+(
+passerina:0.087965,
+schioppettino:0.11508)
+Branch 83:0.01904,
+(
+montepulciano:0.075058,
+pignoletto:0.090323)
+Branch 84:0.017415)
+Branch 85:0.012176)
+Branch 86:0.0079886)
+Branch 87:0.0038741)
+Branch 88:0.0081183)
+Branch 89:0.012099,
+(
+taifi_rozovyi:0.090791,
+katta_kurgan:0.089886)
+Branch 90:0.0018877)
+Branch 91:0.011437,
+(
+(
+kishmish_vatkana:0.072706,
+sultanina:0.052425)
+Branch 92:0.015119,
+V410:0.082825)
+Branch 93:0.0078766)
+Branch 94:0.016053,
+italia:0.12264)
+Branch 95:0)
+Branch 96;
